@@ -1,7 +1,7 @@
 # Save as: .github/workflows/profile-3d.yml  (in the shreyasc84/shreyasc84 repo)
-# Generates the 3D contribution graph and the red/blue contribution crawl
+# Generates the 3D contribution graph
 # once a day and commits the SVG files into this repo.
-name: Profile 3D graph and snake
+name: Profile 3D graph
 
 on:
   schedule:
@@ -22,14 +22,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
-      # Contribution crawl in red and blue -> dist/snake.svg and dist/snake-dark.svg
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=#1E3A8A&color_dots=#ebedf0,#f7b2b2,#ef6b6b,#e23636,#a31621
-            dist/snake-dark.svg?color_snake=#2B6CFF&color_dots=#161b22,#5c1a1a,#a31621,#e23636,#ff6b6b
 
       - name: Commit and push
         run: |
