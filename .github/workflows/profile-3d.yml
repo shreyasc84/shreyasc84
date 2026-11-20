@@ -1,0 +1,41 @@
+# Save as: .github/workflows/profile-3d.yml  (in the shreyasc84/shreyasc84 repo)
+# Generates the 3D contribution graph and the contribution snake once a day
+# and commits the SVG files into this repo.
+name: Profile 3D graph and snake
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # 00:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      # 3D contribution graph -> profile-3d-contrib/*.svg
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # Contribution snake -> dist/snake.svg and dist/snake-dark.svg
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "Update profile graphics"; then
+            git push
+          fi
