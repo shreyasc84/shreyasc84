@@ -117,6 +117,13 @@ Upload a bank statement (PDF or CSV) and get categorized spending, a next-month 
   <img src="https://streak-stats.demolab.com?user=shreyasc84&background=0B1026&border=E23636&stroke=2B6CFF&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=E23636&sideNums=FFFFFF&sideLabels=2B6CFF&dates=9CA3AF&border_radius=10" alt="GitHub streak"/>
 </p>
 
+## 🕷️ Web crawlers
+
+<!-- Static file in this repo: assets/spider.svg -->
+<p align="center">
+  <img width="100%" src="./assets/spider.svg" alt="Pixel spiders crawling along a web"/>
+</p>
+
 <img width="100%" src="./assets/web-divider.svg" alt=""/>
 
 ## 🎓 Education & certificates
