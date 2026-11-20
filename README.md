@@ -1,14 +1,14 @@
 <!-- Palette: red #E23636 · deep red #B11313 · blue #2B6CFF · navy #0B1026 -->
 
-<!-- Animated header -->
+<!-- Custom hero banner: assets/spider-hero.svg -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B11313,45:E23636,100:1E3A8A&height=230&section=header&text=SHREYAS%20C&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=AI%20Application%20Developer%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20Python&descSize=20&descAlignY=57&animation=fadeIn" alt="Shreyas C — AI Application Developer · LLM Evaluation · Python"/>
+  <img width="100%" src="./assets/spider-hero.svg" alt="Shreyas C — AI Application Developer · LLM Evaluation · Python · LangChain"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/shreyasc84">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=700&lines=Building+practical+AI+applications+with+LLMs;LangChain+%C2%B7+FastAPI+%C2%B7+Gemini+%C2%B7+OpenAI;Evaluating+frontier+LLMs+%40+Handshake+AI;B.Tech+Information+Science+%C2%B7+CGPA+8.49" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=700&lines=Weaving+LLMs+into+practical+AI+applications;LangChain+%C2%B7+FastAPI+%C2%B7+Gemini+%C2%B7+OpenAI;Evaluating+frontier+LLMs+%40+Handshake+AI;B.Tech+Information+Science+%C2%B7+CGPA+8.49" alt="Typing animation"/>
   </a>
 </p>
 
@@ -18,20 +18,20 @@
   <img src="https://komarev.com/ghpvc/?username=shreyasc84&label=Profile%20views&color=B11313&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1E3A8A&height=4" alt=""/>
+<img width="100%" src="./assets/web-divider.svg" alt=""/>
 
 ## 🕸️ About me
 
-Information Science Engineering graduate from Bengaluru, focused on **Python, machine learning and AI application development**.
+Information Science Engineering graduate from Bengaluru, spinning ideas into working software with **Python, machine learning and AI application development**.
 
 - 🧠 Hands-on with **LLM integration, document-analysis pipelines, evaluation rubric design and REST APIs**
 - 🔬 Evaluating multilingual AI models as a **Generalist at Handshake AI**
 - 🏅 Previously **RLHF Generalist → promoted to Reviewer** at Mercor Intelligence, with a 97%+ feedback approval rate
 - 🎯 Looking to build and optimize practical AI solutions
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1E3A8A&height=4" alt=""/>
+<img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 💼 Experience
+## 🕷️ Experience
 
 **Generalist (Contract) · Handshake AI** &nbsp;<sub>Oct 2026 – Present</sub>
 - Write prompts in localized Indian English to evaluate multilingual AI models
@@ -42,9 +42,23 @@ Information Science Engineering graduate from Bengaluru, focused on **Python, ma
 - Promoted to Reviewer; quality-controlled peer evaluations while sustaining a **97%+ approval rate**
 - Designed reusable system-prompt templates and evaluation rubrics covering 5+ scoring axes
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1E3A8A&height=4" alt=""/>
+<img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🚀 Featured projects
+## 🕸️ Projects I've spun
+
+### 📑 AI-Powered Requirements Analysis Assistant
+<!-- TODO: turn the title into a link to the repo: ### 📑 [AI-Powered Requirements Analysis Assistant](https://github.com/shreyasc84/REPO-NAME) -->
+
+LLM-powered pipeline that reads requirement documents and turns them into structured data and diagrams.
+
+- Extracts five requirement categories into structured, validated JSON using LangChain and Gemini
+- FastAPI endpoints that auto-generate ER, class and wireframe diagrams with PlantUML
+
+![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=E23636)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=E23636)
+![LangChain](https://img.shields.io/badge/LangChain-0B1026?style=flat-square&logo=langchain&logoColor=E23636)
+![Gemini](https://img.shields.io/badge/Gemini_API-0B1026?style=flat-square&logo=googlegemini&logoColor=E23636)
+![PlantUML](https://img.shields.io/badge/PlantUML-0B1026?style=flat-square)
 
 ### 💰 [AI-Driven Personal Finance Advisor](https://github.com/shreyasc84/finance-advisor)
 
@@ -59,23 +73,9 @@ Upload a bank statement (PDF or CSV) and get categorized spending, a next-month 
 ![LangChain](https://img.shields.io/badge/LangChain-0B1026?style=flat-square&logo=langchain&logoColor=E23636)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0B1026?style=flat-square&logo=streamlit&logoColor=E23636)
 
-### 📑 [AI-Powered Requirements Analysis Assistant](https://github.com/shreyasc84/AI-Requirements-Analyzer)
-<!-- TODO: turn the title into a link to the repo: ### 📑 [AI-Powered Requirements Analysis Assistant](https://github.com/shreyasc84/AI-Requirements-Analyzer) -->
+<img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-LLM-powered pipeline that reads requirement documents and turns them into structured data and diagrams.
-
-- Extracts five requirement categories into structured, validated JSON using LangChain and Gemini
-- FastAPI endpoints that auto-generate ER, class and wireframe diagrams with PlantUML
-
-![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=E23636)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=E23636)
-![LangChain](https://img.shields.io/badge/LangChain-0B1026?style=flat-square&logo=langchain&logoColor=E23636)
-![Gemini](https://img.shields.io/badge/Gemini_API-0B1026?style=flat-square&logo=googlegemini&logoColor=E23636)
-![PlantUML](https://img.shields.io/badge/PlantUML-0B1026?style=flat-square)
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1E3A8A&height=4" alt=""/>
-
-## 🛠️ Tech stack
+## 🧵 Threads in my web
 
 **AI / ML**
 
@@ -97,9 +97,9 @@ LLM-powered pipeline that reads requirement documents and turns them into struct
   <img src="https://skillicons.dev/icons?i=git,docker,vercel,figma&theme=dark" alt="Git, Docker, Vercel, Figma"/>
 </p>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1E3A8A&height=4" alt=""/>
+<img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🏙️ My contributions in 3D
+## 🏙️ My city of commits, in 3D
 
 <!-- Generated daily by .github/workflows/profile-3d.yml -->
 <p align="center">
@@ -117,15 +117,7 @@ LLM-powered pipeline that reads requirement documents and turns them into struct
   <img src="https://streak-stats.demolab.com?user=shreyasc84&background=0B1026&border=E23636&stroke=2B6CFF&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=E23636&sideNums=FFFFFF&sideLabels=2B6CFF&dates=9CA3AF&border_radius=10" alt="GitHub streak"/>
 </p>
 
-## 🕷️ Contribution crawl
-
-<!-- Generated daily by .github/workflows/profile-3d.yml -->
-<p align="center">
-  <img width="100%" src="./dist/snake-dark.svg#gh-dark-mode-only" alt="Animated crawl across my contribution graph"/>
-  <img width="100%" src="./dist/snake.svg#gh-light-mode-only" alt="Animated crawl across my contribution graph"/>
-</p>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1E3A8A&height=4" alt=""/>
+<img width="100%" src="./assets/web-divider.svg" alt=""/>
 
 ## 🎓 Education & certificates
 
@@ -135,7 +127,7 @@ LLM-powered pipeline that reads requirement documents and turns them into struct
 - NoSQL, Big Data, and Spark Foundations Specialization
 - IT Fundamentals for Cybersecurity Specialization
 
-## 🤝 Let's connect
+## 🤝 Get caught in my web
 
 Open to AI/ML and backend roles — reach me on **[LinkedIn](https://www.linkedin.com/in/shreyasc84)** or at **shreyasc84@gmail.com**.
 
