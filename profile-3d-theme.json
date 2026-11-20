@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-spider.svg",
+  "backgroundColor": "#0B1026",
+  "foregroundColor": "#E6ECFF",
+  "strongColor": "#FF7B7B",
+  "weakColor": "#7C8AB8",
+  "radarColor": "#2B6CFF",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1A2452",
+    "#7A1C26",
+    "#B11313",
+    "#E23636",
+    "#FF7B7B"
+  ]
+}
