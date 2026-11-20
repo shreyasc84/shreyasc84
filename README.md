@@ -1,27 +1,30 @@
-<h1 align="center">Hi, I'm Shreyas 👋</h1>
-
+<!-- Animated wave header -->
 <p align="center">
-  <b>Python developer building ML-powered fintech tools · exploring Solidity and Web3</b><br/>
-  📍 Bengaluru, India
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shreyas&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20Machine%20Learning%20%C2%B7%20Web3&descSize=20&descAlignY=58&animation=fadeIn" alt="Shreyas — Python · Machine Learning · Web3"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/shreyasc84">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2C9FD9&center=true&vCenter=true&width=640&lines=Building+ML-powered+fintech+tools;Creator+of+FinGuide+%E2%80%94+AI+finance+advisor;Learning+Solidity+and+smart+contracts;Open+to+internships+and+collaborations" alt="Typing animation"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyasc84"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/shreyasc84?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="Repositories"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shreyasc84&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/shreyasc84"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/shreyasc84?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shreyasc84&label=Profile%20views&color=2c5364&style=for-the-badge" alt="Profile views"/>
 </p>
 
----
-
-## About me
+## 🧑‍💻 About me
 
 - 🔭 Currently building **[FinGuide](https://github.com/shreyasc84/finance-advisor)**, a personal-finance analyzer for Indian bank statements
 - 🌱 Learning **Solidity**, smart-contract development and full-stack web development
 - 💬 Ask me about **Python, Java, machine learning pipelines and Streamlit apps**
-- 🤝 Open to internships, collaborations and open-source contributions
-<!-- TODO: add one line on your degree / college / current role, e.g. "🎓 B.E. Computer Science, <college>, class of 20XX" -->
+- 📍 Based in **Bengaluru, India** · open to internships and collaborations
+<!-- TODO: add one line on your degree / college / current role -->
 
-## Featured projects
+## 🚀 Featured projects
 
 ### 💰 [FinGuide — AI finance advisor](https://github.com/shreyasc84/finance-advisor)
 
@@ -31,38 +34,25 @@ Upload an Indian bank statement (PDF or CSV) and get a categorized spending brea
 - **Privacy-first:** uploads stay in session memory; the LLM advisor only ever sees anonymized totals
 - **Stack:** Python · Streamlit · scikit-learn · LangChain + Groq · matplotlib · fpdf2
 
-<!-- TODO: add a live demo link once deployed on Streamlit Cloud:  **[▶ Live demo](https://YOUR-APP.streamlit.app)** -->
+<!-- TODO: add a live demo link once deployed:  **[▶ Live demo](https://YOUR-APP.streamlit.app)** -->
+<!-- TODO: add 1–2 more projects in the same format (problem → what you built → stack → demo link) -->
 
-<!-- TODO: add 1–2 more of your strongest projects in the same format (problem → what you built → stack → demo link).
-### ⛓️ [Project name](https://github.com/shreyasc84/REPO)
-One-sentence description of the problem it solves.
-- **Highlight:** the most interesting technical decision
-- **Stack:** Solidity · Hardhat · React
--->
+## 🛠️ Tech stack
 
-## Tech stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,solidity,js,html,css,sklearn,git,github,vscode&perline=10" alt="Python, Java, Solidity, JavaScript, HTML, CSS, scikit-learn, Git, GitHub, VS Code"/>
+</p>
+<!-- Remove any icon you can't back up with a repo: edit the comma-separated list after ?i= -->
 
-**Languages**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🏙️ My contributions in 3D
 
-**ML & data**&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<!-- Generated daily by .github/workflows/profile-3d.yml — run the workflow once before these appear -->
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution graph"/>
+  <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D contribution graph"/>
+</p>
 
-**Web & tools**&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-<!-- Keep only what you can back up with a repo. Remove anything you haven't actually used. -->
-
-## GitHub dashboard
+## 📊 GitHub dashboard
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyasc84&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default#gh-light-mode-only" alt="GitHub stats"/>
@@ -76,11 +66,20 @@ One-sentence description of the problem it solves.
   <img src="https://streak-stats.demolab.com?user=shreyasc84&hide_border=true&theme=github-dark-blue#gh-dark-mode-only" alt="GitHub streak"/>
 </p>
 
+## 🐍 Contribution snake
+
+<!-- Generated daily by .github/workflows/profile-3d.yml -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasc84&hide_border=true&area=true&theme=github-compact" alt="Contribution activity graph"/>
+  <img width="100%" src="./dist/snake-dark.svg#gh-dark-mode-only" alt="Snake eating my contributions"/>
+  <img width="100%" src="./dist/snake.svg#gh-light-mode-only" alt="Snake eating my contributions"/>
 </p>
 
-## Let's connect
+## 🤝 Let's connect
 
 I'm always happy to talk about fintech, ML or Web3 projects — reach me on **[LinkedIn](https://www.linkedin.com/in/shreyasc84)**.
-<!-- TODO: add a public email if you want recruiters to reach you directly: 📫 you@example.com -->
+<!-- TODO: add a public email if you want recruiters to reach you directly -->
+
+<!-- Animated wave footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt=""/>
+</p>
