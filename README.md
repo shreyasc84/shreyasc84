@@ -20,7 +20,7 @@
 
 <img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🕸️ About me
+### 🕸️ About me
 
 Information Science Engineering graduate from Bengaluru, spinning ideas into working software with **Python, machine learning and AI application development**.
 
@@ -31,7 +31,7 @@ Information Science Engineering graduate from Bengaluru, spinning ideas into wor
 
 <img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🕷️ Experience
+### 🕷️ Experience
 
 **Generalist (Contract) · Handshake AI** &nbsp;<sub>Oct 2026 – Present</sub>
 - Write prompts in localized Indian English to evaluate multilingual AI models
@@ -44,9 +44,9 @@ Information Science Engineering graduate from Bengaluru, spinning ideas into wor
 
 <img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🕸️ Projects I've spun
+### 🕸️ Projects I've spun
 
-### 📑 AI-Powered Requirements Analysis Assistant
+#### 📑 AI-Powered Requirements Analysis Assistant
 <!-- TODO: turn the title into a link to the repo: ### 📑 [AI-Powered Requirements Analysis Assistant](https://github.com/shreyasc84/REPO-NAME) -->
 
 LLM-powered pipeline that reads requirement documents and turns them into structured data and diagrams.
@@ -60,7 +60,7 @@ LLM-powered pipeline that reads requirement documents and turns them into struct
 ![Gemini](https://img.shields.io/badge/Gemini_API-0B1026?style=flat-square&logo=googlegemini&logoColor=E23636)
 ![PlantUML](https://img.shields.io/badge/PlantUML-0B1026?style=flat-square)
 
-### 💰 [AI-Driven Personal Finance Advisor](https://github.com/shreyasc84/finance-advisor)
+#### 💰 [AI-Driven Personal Finance Advisor](https://github.com/shreyasc84/finance-advisor)
 
 Upload a bank statement (PDF or CSV) and get categorized spending, a next-month forecast and personalized advice.
 
@@ -75,7 +75,7 @@ Upload a bank statement (PDF or CSV) and get categorized spending, a next-month 
 
 <img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🧵 Threads in my web
+### 🧵 Threads in my web
 
 **AI / ML**
 
@@ -99,34 +99,21 @@ Upload a bank statement (PDF or CSV) and get categorized spending, a next-month 
 
 <img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🏙️ My city of commits, in 3D
+### 🏙️ My city of commits, in 3D
 
-<!-- Generated daily by .github/workflows/profile-3d.yml -->
+<!-- Generated daily by .github/workflows/profile-3d.yml using profile-3d-theme.json -->
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
-</p>
-
-## 📊 GitHub dashboard
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyasc84&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0B1026&title_color=E23636&icon_color=2B6CFF&text_color=FFFFFF&ring_color=E23636&border_color=E23636&border_radius=10" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasc84&layout=compact&langs_count=8&bg_color=0B1026&title_color=E23636&text_color=FFFFFF&border_color=2B6CFF&border_radius=10" alt="Top languages"/>
+  <img width="100%" src="./profile-3d-contrib/profile-spider.svg" alt="3D contribution graph"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyasc84&background=0B1026&border=E23636&stroke=2B6CFF&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=E23636&sideNums=FFFFFF&sideLabels=2B6CFF&dates=9CA3AF&border_radius=10" alt="GitHub streak"/>
-</p>
-
-## 🕷️ Web crawlers
-
-<!-- Static file in this repo: assets/spider.svg -->
-<p align="center">
-  <img width="100%" src="./assets/spider.svg" alt="Pixel spiders crawling along a web"/>
+  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=shreyasc84&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0B1026&title_color=E23636&icon_color=2B6CFF&text_color=FFFFFF&ring_color=E23636&border_color=E23636&border_radius=10" alt="GitHub stats"/>
+  <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasc84&layout=compact&langs_count=8&bg_color=0B1026&title_color=E23636&text_color=FFFFFF&border_color=2B6CFF&border_radius=10" alt="Top languages"/>
 </p>
 
 <img width="100%" src="./assets/web-divider.svg" alt=""/>
 
-## 🎓 Education & certificates
+### 🎓 Education & certificates
 
 **B.Tech, Information Science Engineering** · Ramaiah University of Applied Sciences · 2022 – 2026 · **CGPA 8.49**
 
@@ -134,11 +121,11 @@ Upload a bank statement (PDF or CSV) and get categorized spending, a next-month 
 - NoSQL, Big Data, and Spark Foundations Specialization
 - IT Fundamentals for Cybersecurity Specialization
 
-## 🤝 Get caught in my web
+### 🤝 Get caught in my web
 
 Open to AI/ML and backend roles — reach me on **[LinkedIn](https://www.linkedin.com/in/shreyasc84)** or at **shreyasc84@gmail.com**.
 
-<!-- Animated footer -->
+<!-- Footer: assets/spider.svg -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,55:E23636,100:B11313&height=130&section=footer" alt=""/>
+  <img width="100%" src="./assets/spider.svg" alt="Pixel spiders crawling along a web"/>
 </p>
