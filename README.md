@@ -8,7 +8,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/shreyasc84">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=700&lines=Weaving+LLMs+into+practical+AI+applications;LangChain+%C2%B7+FastAPI+%C2%B7+Gemini+%C2%B7+OpenAI;Evaluating+frontier+LLMs+%40+Handshake+AI;B.Tech+Information+Science+%C2%B7+CGPA+8.49" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=700&lines=Weaving+LLMs+into+practical+AI+applications;LangChain+%C2%B7+FastAPI+%C2%B7+Gemini+%C2%B7+OpenAI;B.Tech+Information+Science+%C2%B7+CGPA+8.49" alt="Typing animation"/>
   </a>
 </p>
 
