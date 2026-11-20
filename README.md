@@ -46,20 +46,6 @@ Information Science Engineering graduate from Bengaluru, focused on **Python, ma
 
 ## 🚀 Featured projects
 
-### 📑 AI-Powered Requirements Analysis Assistant
-<!-- TODO: turn the title into a link to the repo: ### 📑 [AI-Powered Requirements Analysis Assistant](https://github.com/shreyasc84/REPO-NAME) -->
-
-LLM-powered pipeline that reads requirement documents and turns them into structured data and diagrams.
-
-- Extracts five requirement categories into structured, validated JSON using LangChain and Gemini
-- FastAPI endpoints that auto-generate ER, class and wireframe diagrams with PlantUML
-
-![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=E23636)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=E23636)
-![LangChain](https://img.shields.io/badge/LangChain-0B1026?style=flat-square&logo=langchain&logoColor=E23636)
-![Gemini](https://img.shields.io/badge/Gemini_API-0B1026?style=flat-square&logo=googlegemini&logoColor=E23636)
-![PlantUML](https://img.shields.io/badge/PlantUML-0B1026?style=flat-square)
-
 ### 💰 [AI-Driven Personal Finance Advisor](https://github.com/shreyasc84/finance-advisor)
 
 Upload a bank statement (PDF or CSV) and get categorized spending, a next-month forecast and personalized advice.
@@ -72,6 +58,20 @@ Upload a bank statement (PDF or CSV) and get categorized spending, a next-month 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1026?style=flat-square&logo=scikitlearn&logoColor=E23636)
 ![LangChain](https://img.shields.io/badge/LangChain-0B1026?style=flat-square&logo=langchain&logoColor=E23636)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0B1026?style=flat-square&logo=streamlit&logoColor=E23636)
+
+### 📑 [AI-Powered Requirements Analysis Assistant](https://github.com/shreyasc84/AI-Requirements-Analyzer)
+<!-- TODO: turn the title into a link to the repo: ### 📑 [AI-Powered Requirements Analysis Assistant](https://github.com/shreyasc84/AI-Requirements-Analyzer) -->
+
+LLM-powered pipeline that reads requirement documents and turns them into structured data and diagrams.
+
+- Extracts five requirement categories into structured, validated JSON using LangChain and Gemini
+- FastAPI endpoints that auto-generate ER, class and wireframe diagrams with PlantUML
+
+![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=E23636)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=E23636)
+![LangChain](https://img.shields.io/badge/LangChain-0B1026?style=flat-square&logo=langchain&logoColor=E23636)
+![Gemini](https://img.shields.io/badge/Gemini_API-0B1026?style=flat-square&logo=googlegemini&logoColor=E23636)
+![PlantUML](https://img.shields.io/badge/PlantUML-0B1026?style=flat-square)
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1E3A8A&height=4" alt=""/>
 
